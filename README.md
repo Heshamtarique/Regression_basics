@@ -1,1 +1,2 @@
-# Regression_basics
+# Regression
+### Basics of Linear Regersison
